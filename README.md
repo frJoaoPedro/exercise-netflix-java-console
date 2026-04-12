@@ -31,7 +31,7 @@ Para realizar este exercício, siga os passos abaixo:
 
 1.  **Fork este repositório:** Clique no botão "Fork" no canto superior direito para criar uma cópia deste projeto na sua conta pessoal.
 2.  **Clone o seu Fork:** Clone o repositório para sua máquina local.
-3.  **Desenvolva a Solução:** Crie uma classe chamada `Main.java` (ou utilize a estrutura fornecida na pasta `src`) e implemente a lógica utilizando as classes `Scanner` para entrada de dados.
+3.  **Desenvolva a Solução:** Crie uma classe chamada `Netflix.java` e implemente a lógica utilizando as classes `Scanner` para entrada de dados.
 4.  **Commit e Push:** Após testar seu código, envie as alterações para o **seu** repositório no GitHub.
 5.  **Submissão:** O link do seu repositório pessoal deve ser enviado via plataforma da disciplina para avaliação.
 
